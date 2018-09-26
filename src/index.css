@@ -1,0 +1,50 @@
+body {
+  background-image: 
+  url(https://i2.wp.com/www.tricksbystg.org/wp-content/uploads/2017/10/tumblr_static_tumblr_static_83f32dyr5s84k8sw4o8400gw8_640.gif?resize=640%2C360&ssl=1);
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+main {
+  margin: 0;
+}
+.container {
+  border-radius: 25%;
+  flex-direction: column;
+  display: flex;
+  border: solid 10px black;
+  background-color: lightgrey;
+  margin: 6% 25%;
+}
+header {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.slide-container {
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+}
+h3 {
+  text-align: center;
+  font-size: 40px;
+}
+li {
+  margin-top: 3%;
+  font-size: 2rem;
+  list-style: none;
+}
+.colors{
+  background-color: aliceblue;
+  width: 125px;
+  height: 125px;
+  border: solid 10px black
+}
+input {
+  width: 200%;
+}
+.little-box {
+  display: flex;
+  flex-direction: column;
+}
