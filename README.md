@@ -3,5 +3,3 @@
   <p align="center">
   <img src="./pics/color.png">
 </p>
-
-https://github.com/AllanSeitz/color/tree/master/src
